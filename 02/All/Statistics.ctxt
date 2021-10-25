@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Statistics
+comment1.params=rangeMin\ rangeMax
+comment1.target=int\ NumItems(int,\ int)
+comment2.params=rangeMin\ rangeMax
+comment2.target=int\ Sum(int,\ int)
+comment3.params=rangeMin\ rangeMax
+comment3.target=int\ Mean(int,\ int)
+numComments=4
