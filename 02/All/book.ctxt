@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=book
+comment1.params=backwards
+comment1.target=void\ TurnPage(boolean)
+comment2.params=get_name
+comment2.target=void\ ChangeName(java.lang.String)
+comment3.params=
+comment3.target=void\ DisplayInfo()
+numComments=4

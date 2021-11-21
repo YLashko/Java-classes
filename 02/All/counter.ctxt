@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=counter
+comment1.params=increase
+comment1.target=void\ ChangeByTen(boolean)
+comment2.params=increase
+comment2.target=void\ ChangeByOne(boolean)
+comment3.params=get_value
+comment3.target=void\ SetValue(int)
+comment4.params=
+comment4.target=int\ GetValue()
+numComments=5
