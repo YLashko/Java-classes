@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=rectangle2_7
-comment1.params=
-comment1.target=int\ CalculatePerimeter()
-comment2.params=
-comment2.target=int\ CalculateSquare()
-comment3.params=
-comment3.target=void\ DisplayDimensions()
-numComments=4
