@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BestBook
+comment1.params=author\ name\ genre\ thickCover\ price
+comment1.target=BestBook(java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean,\ float)
+comment2.params=arr\ str
+comment2.target=boolean\ contains(java.lang.String[],\ java.lang.String)
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Scores
+comment1.params=scores
+comment1.target=float\ midMean(int[])
+comment2.params=array
+comment2.target=float\ mean(int[])
+comment3.params=array\ el
+comment3.target=int[]\ deleteElement(int[],\ int)
+comment4.params=array
+comment4.target=int\ max(int[])
+comment5.params=array
+comment5.target=int\ min(int[])
+numComments=6
