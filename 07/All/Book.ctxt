@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Book
+comment1.params=name\ writer\ numberOfPages
+comment1.target=Book(java.lang.String,\ Writer,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getWriterName()
+comment4.params=
+comment4.target=Writer\ getWriter()
+comment5.params=chapters
+comment5.target=void\ setChapters(Chapter[])
+comment6.params=
+comment6.target=java.lang.String\ getInfo()
+numComments=7

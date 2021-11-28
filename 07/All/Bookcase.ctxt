@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Bookcase
+comment1.params=name
+comment1.target=Bookcase(java.lang.String)
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=book
+comment3.target=void\ addBook(Book)
+comment4.params=name
+comment4.target=void\ removeFileByName(java.lang.String)
+comment5.params=book
+comment5.target=void\ removeBook(Book)
+comment6.params=
+comment6.target=void\ displayContent()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
