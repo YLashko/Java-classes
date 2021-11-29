@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=AudioBook
+comment1.params=title\ author\ min\ sec
+comment1.target=AudioBook(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getMin()
+comment3.params=
+comment3.target=int\ getSec()
+comment4.params=sec
+comment4.target=void\ setSec(int)
+comment5.params=min
+comment5.target=void\ setMin(int)
+comment6.params=
+comment6.target=void\ display()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
